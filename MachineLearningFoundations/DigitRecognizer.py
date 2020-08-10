@@ -1,5 +1,3 @@
-# YOUR CODE SHOULD START HERE
-# YOUR CODE SHOULD END HERE
 import tensorflow as tf
 
 class myCallback(tf.keras.callbacks.Callback):
